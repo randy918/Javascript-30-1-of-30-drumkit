@@ -38,8 +38,8 @@ html {
   transition: all 0.07s ease;
   width: 10rem;
   height: 60rem;
-  -webkit-box-shadow: inset -7px -7px 10px gray;
-          box-shadow: inset -7px -7px 10px gray;
+  -webkit-box-shadow: inset -7px -7px 5px gray;
+          box-shadow: inset -7px -7px 5px gray;
   text-align: center;
   color: gray;
   background: white;
